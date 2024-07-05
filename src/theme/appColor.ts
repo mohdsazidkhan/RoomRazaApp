@@ -27,7 +27,7 @@ export const AppColor = {
     WATER: '#DDEEFD',
     BEGONIA: '#FF7171',
     LIGHT_GRAY: '#D2D2D2',
-    DEEP_SPACE_SPARKLE: '#456277',
+    DEEP_SPACE_SPARKLE: '#44919c',
     EERIE_BLACK: '#1E1E1E',
     PHILIPPINE_SILVER: '#B6B6B6',
     AZURE: '#007BFD',
