@@ -1,5 +1,5 @@
 export default {
-    welcomeTo: 'Welcome To!',
+    welcomeTo: 'Welcome To',
     loginToAccount: 'Login to your account',
     emailPhone: 'Email/Phone No.',
     password: 'Password',
