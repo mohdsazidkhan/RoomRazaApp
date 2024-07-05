@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "dismissable"
+    ],
+    "git.allowForcePush": true,
+    "git.showPushSuccessNotification": true,
+    "git.closeDiffOnOperation": true
+}
